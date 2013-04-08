@@ -1,0 +1,10 @@
+D:\Gerard\Dropbox\TFC\codi\GPIO-C#\RaspberryPi_CSharp_Lib\RaspberryPi_CSharp_Lib\bin\Debug\RaspberryPi_CSharp_Lib.exe
+D:\Gerard\Dropbox\TFC\codi\GPIO-C#\RaspberryPi_CSharp_Lib\RaspberryPi_CSharp_Lib\bin\Debug\RaspberryPi_CSharp_Lib.pdb
+D:\Gerard\Dropbox\TFC\codi\GPIO-C#\RaspberryPi_CSharp_Lib\RaspberryPi_CSharp_Lib\obj\x86\Debug\RaspberryPi_CSharp_Lib.exe
+D:\Gerard\Dropbox\TFC\codi\GPIO-C#\RaspberryPi_CSharp_Lib\RaspberryPi_CSharp_Lib\obj\x86\Debug\RaspberryPi_CSharp_Lib.pdb
+Z:\tfc\RaspberryPi_CSharp_Lib.exe
+Z:\tfc\RaspberryPi_CSharp_Lib.pdb
+D:\Gerard\Dropbox\TFC\codi\GPIO-C#\RPi_CSharp_GPIO_Simple_Lib\RaspberryPi_CSharp_Lib\obj\x86\Debug\RaspberryPi_CSharp_Lib.exe
+D:\Gerard\Dropbox\TFC\codi\GPIO-C#\RPi_CSharp_GPIO_Simple_Lib\RaspberryPi_CSharp_Lib\obj\x86\Debug\RaspberryPi_CSharp_Lib.pdb
+D:\Gerard\Dropbox\TFC\codi\GitHub\IOSharp_RaspberryPi_GPIO_simple\IOSharp_RaspberryPi_GPIO_simple\RaspberryPi_CSharp_Lib\obj\x86\Debug\RaspberryPi_CSharp_Lib.exe
+D:\Gerard\Dropbox\TFC\codi\GitHub\IOSharp_RaspberryPi_GPIO_simple\IOSharp_RaspberryPi_GPIO_simple\RaspberryPi_CSharp_Lib\obj\x86\Debug\RaspberryPi_CSharp_Lib.pdb
